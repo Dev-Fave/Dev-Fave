@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Fave
-- 👀 I’m interested in .Backend Development..
-- 🌱 I’m currently learning .Python,Django..
-- 💞️ I’m looking to collaborate on Server side of a website or application...
+- 👀 I’m interested in Cloud,SRE,DevOps
+- 🌱 I’m currently learning Aws,GCP,Azure,IAC,Docker,Jenkins
+- 💞️ I’m looking to collaborate on Migration of services to the cloud and also building scalable products 
 - 📫 How to reach me on X @Itsphayevor...
 - 😄 Pronouns: .She/Her..
 - ⚡ Fun fact: ...I love travelling and exploring different cuisines from different part of the world.
